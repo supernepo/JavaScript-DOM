@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio4",
+  "version": "1.0.0",
+  "description": "Escribe una función que, al recibir un array como parámetro, elimine los strings repetidos del mismo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server www --files www"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
